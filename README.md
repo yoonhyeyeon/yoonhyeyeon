@@ -1,6 +1,6 @@
-## Hi there 👋
 
-<h2 align="center">🌼 안녕하세요 🌼</h2>
+
+<h2 align="center">👋 Hi 👋</h2>
 <h3 align="center">꾸준히 기록하고 성장하는 개발자 🧶</h3>
 
 <p align="center">
